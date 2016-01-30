@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tic-tac-toe</string>
+    <string name="greeting">Hello there</string>
+    <string name="hello_in_latin">Salve</string>
+    <string name="prompt_text">Use this greeting</string>
+    <string name="xwon">X won!</string>
+    <string name="owon">O won!</string>
+    <string name="Tie">Tie!</string>
+    <string name="empty"></string>
+</resources>
